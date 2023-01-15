@@ -48,3 +48,8 @@ It will show the plan to destroy
 ```bash
 $ terraform plan -destroy
 ```
+
+you'll get help on the plan command
+```bash
+$ terraform -h plan
+```
