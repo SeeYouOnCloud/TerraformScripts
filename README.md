@@ -53,3 +53,8 @@ you'll get help on the plan command
 ```bash
 $ terraform -h plan
 ```
+
+format your code
+```bash
+$ terraform fmt
+```
