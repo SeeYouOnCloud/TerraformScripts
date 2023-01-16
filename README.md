@@ -58,3 +58,13 @@ format your code
 ```bash
 $ terraform fmt
 ```
+
+show which providers are required by a configuration
+```bash
+$ terraform providers
+```
+
+show which version 
+```bash
+$ terraform -version
+```
